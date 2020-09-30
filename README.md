@@ -49,6 +49,7 @@
 <p>Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press.</p> 
 <p>https://www.jetbrains.com/help/webstorm/using-git-integration.html</p> 
 <p>https://guides.github.com/activities/hello-world/</p> 
+<p> Arthur H. Hendela, Ph.D.Senior University Lecturer,NJIT </p>
  
  
  
